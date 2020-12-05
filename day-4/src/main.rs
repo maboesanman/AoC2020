@@ -2,7 +2,6 @@ use std::fs::File;
 use std::io::{prelude::*, BufReader};
 use std::collections::HashMap;
 extern crate regex;
-use std::str::FromStr;
 
 use regex::Regex;
 
